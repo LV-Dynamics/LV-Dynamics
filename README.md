@@ -9,6 +9,7 @@
 - Control systems basics
 - Robotics concepts
 - Engineering tools
+- Aerospace and space systems fundamentals
 
 ## 📂 Projects
 - Coming soon 🚧
