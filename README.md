@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Luca
 
-<!--
-**LV-Dynamics/LV-Dynamics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Future Field Service Engineer  
+🤖 Interested in Robotics & Industrial Automation  
+⚙️ Currently learning control systems and engineering simulation  
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Industrial automation fundamentals
+- Control systems basics
+- Robotics concepts
+- Engineering tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Coming soon 🚧
