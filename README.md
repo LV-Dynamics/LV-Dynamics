@@ -7,9 +7,9 @@
 ## 🚀 Current Focus
 - Industrial automation fundamentals
 - Control systems basics
-- Robotics concepts
-- Engineering tools
-- Aerospace and space systems fundamentals
+- Robotics and mechatronics concepts
+- Engineering simulation tools
+- Aerospace and space engineering fundamentals
 
 ## 📂 Projects
 - Coming soon 🚧
